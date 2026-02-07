@@ -1,0 +1,15 @@
+/workspaces/PAPS/TransportSystem/bin/Debug/net10.0/TransportSystem
+/workspaces/PAPS/TransportSystem/bin/Debug/net10.0/TransportSystem.deps.json
+/workspaces/PAPS/TransportSystem/bin/Debug/net10.0/TransportSystem.runtimeconfig.json
+/workspaces/PAPS/TransportSystem/bin/Debug/net10.0/TransportSystem.dll
+/workspaces/PAPS/TransportSystem/bin/Debug/net10.0/TransportSystem.pdb
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/TransportSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/TransportSystem.AssemblyInfoInputs.cache
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/TransportSystem.AssemblyInfo.cs
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/TransportSystem.csproj.CoreCompileInputs.cache
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/TransportSystem.sourcelink.json
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/TransportSystem.dll
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/refint/TransportSystem.dll
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/TransportSystem.pdb
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/TransportSystem.genruntimeconfig.cache
+/workspaces/PAPS/TransportSystem/obj/Debug/net10.0/ref/TransportSystem.dll
